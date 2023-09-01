@@ -1,0 +1,47 @@
+body {
+    margin: 100px 300px;
+    border: 5px;
+    border-style: double;
+    padding: 25px;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    color: black;
+
+}
+
+p {
+    font-size: x-large;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 35px;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    background-color: orange;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
